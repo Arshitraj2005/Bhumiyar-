@@ -14,8 +14,8 @@ def home():
 STREAM_KEY = "2c4f-5sy5-q7tx-cz4t-0c8r"  # Aapka stream key
 
 # ===== Google Drive File IDs =====
-VIDEO_FILE_ID = "1-MJuCDwkcLmUuTTHVuRKqKVY1fCb2qm6"  # Video
-AUDIO_FILE_ID = "1ilOvOl76gwquhWU-Xz78rcTOwLPdnizY"  # Audio / Music
+VIDEO_FILE_ID = ""  # Video
+AUDIO_FILE_ID = "1fO8xVEIKALIZAMMYcFEMQK4Rk0cFtBp6"  # Audio / Music
 
 VIDEO_FILE = "video.mp4"
 AUDIO_FILE = "audio.mp3"
